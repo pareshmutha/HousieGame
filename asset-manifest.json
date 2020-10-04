@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HousieGame/static/css/main.e50d26fc.chunk.css",
+    "main.css": "/HousieGame/static/css/main.1dfcae88.chunk.css",
     "main.js": "/HousieGame/static/js/main.675f75b1.chunk.js",
     "main.js.map": "/HousieGame/static/js/main.675f75b1.chunk.js.map",
     "runtime-main.js": "/HousieGame/static/js/runtime-main.0f9f9b65.js",
@@ -9,10 +9,10 @@
     "static/js/2.ef0d9eea.chunk.js": "/HousieGame/static/js/2.ef0d9eea.chunk.js",
     "static/js/2.ef0d9eea.chunk.js.map": "/HousieGame/static/js/2.ef0d9eea.chunk.js.map",
     "index.html": "/HousieGame/index.html",
-    "precache-manifest.c4119eb14e1761ab14dd1d016251c610.js": "/HousieGame/precache-manifest.c4119eb14e1761ab14dd1d016251c610.js",
+    "precache-manifest.3776c99f4add73893ef06ed5db2a5d68.js": "/HousieGame/precache-manifest.3776c99f4add73893ef06ed5db2a5d68.js",
     "service-worker.js": "/HousieGame/service-worker.js",
     "static/css/2.f8150b8a.chunk.css.map": "/HousieGame/static/css/2.f8150b8a.chunk.css.map",
-    "static/css/main.e50d26fc.chunk.css.map": "/HousieGame/static/css/main.e50d26fc.chunk.css.map",
+    "static/css/main.1dfcae88.chunk.css.map": "/HousieGame/static/css/main.1dfcae88.chunk.css.map",
     "static/js/2.ef0d9eea.chunk.js.LICENSE.txt": "/HousieGame/static/js/2.ef0d9eea.chunk.js.LICENSE.txt",
     "static/media/material-icons.css": "/HousieGame/static/media/MaterialIcons-Regular.e79bfd88.eot",
     "static/media/main.css": "/HousieGame/static/media/phone_bg.a1784dd2.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.0f9f9b65.js",
     "static/css/2.f8150b8a.chunk.css",
     "static/js/2.ef0d9eea.chunk.js",
-    "static/css/main.e50d26fc.chunk.css",
+    "static/css/main.1dfcae88.chunk.css",
     "static/js/main.675f75b1.chunk.js"
   ]
 }
