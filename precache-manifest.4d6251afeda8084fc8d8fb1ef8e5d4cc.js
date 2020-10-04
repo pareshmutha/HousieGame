@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44d24f6d1c33adb35066e721d200e35c",
+    "revision": "a3a730cd9d9cb88a577cfa66bbd41607",
     "url": "/HousieGame/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HousieGame/static/css/2.f8150b8a.chunk.css"
   },
   {
-    "revision": "d77078fa64b8005ff777",
-    "url": "/HousieGame/static/css/main.e9dd33b0.chunk.css"
+    "revision": "52e532bb8b0ab565e2cb",
+    "url": "/HousieGame/static/css/main.5aa05dfa.chunk.css"
   },
   {
     "revision": "b508bca2703109c6b5ca",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HousieGame/static/js/2.ef0d9eea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d77078fa64b8005ff777",
+    "revision": "52e532bb8b0ab565e2cb",
     "url": "/HousieGame/static/js/main.1367c6a9.chunk.js"
   },
   {
