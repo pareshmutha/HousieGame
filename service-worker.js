@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HousieGame/precache-manifest.8bff8045296da6e933d8e75f04b83e19.js"
+  "/HousieGame/precache-manifest.44faa87d0f4f5cdb3ffa9c2f4b068067.js"
 );
 
 self.addEventListener('message', (event) => {
