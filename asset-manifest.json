@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/HousieGame/static/css/main.7308c118.chunk.css",
-    "main.js": "/HousieGame/static/js/main.16c42123.chunk.js",
-    "main.js.map": "/HousieGame/static/js/main.16c42123.chunk.js.map",
+    "main.css": "/HousieGame/static/css/main.fb8b47d7.chunk.css",
+    "main.js": "/HousieGame/static/js/main.f47ac56a.chunk.js",
+    "main.js.map": "/HousieGame/static/js/main.f47ac56a.chunk.js.map",
     "runtime-main.js": "/HousieGame/static/js/runtime-main.0f9f9b65.js",
     "runtime-main.js.map": "/HousieGame/static/js/runtime-main.0f9f9b65.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/HousieGame/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.aeb48439.chunk.js": "/HousieGame/static/js/2.aeb48439.chunk.js",
-    "static/js/2.aeb48439.chunk.js.map": "/HousieGame/static/js/2.aeb48439.chunk.js.map",
+    "static/css/2.f8150b8a.chunk.css": "/HousieGame/static/css/2.f8150b8a.chunk.css",
+    "static/js/2.ef0d9eea.chunk.js": "/HousieGame/static/js/2.ef0d9eea.chunk.js",
+    "static/js/2.ef0d9eea.chunk.js.map": "/HousieGame/static/js/2.ef0d9eea.chunk.js.map",
     "index.html": "/HousieGame/index.html",
-    "precache-manifest.b3f6b3627f2cac8e64d5215cf16a17a3.js": "/HousieGame/precache-manifest.b3f6b3627f2cac8e64d5215cf16a17a3.js",
+    "precache-manifest.3068ef15f258df37b7f875bd3b830711.js": "/HousieGame/precache-manifest.3068ef15f258df37b7f875bd3b830711.js",
     "service-worker.js": "/HousieGame/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/HousieGame/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.7308c118.chunk.css.map": "/HousieGame/static/css/main.7308c118.chunk.css.map",
-    "static/js/2.aeb48439.chunk.js.LICENSE.txt": "/HousieGame/static/js/2.aeb48439.chunk.js.LICENSE.txt",
+    "static/css/2.f8150b8a.chunk.css.map": "/HousieGame/static/css/2.f8150b8a.chunk.css.map",
+    "static/css/main.fb8b47d7.chunk.css.map": "/HousieGame/static/css/main.fb8b47d7.chunk.css.map",
+    "static/js/2.ef0d9eea.chunk.js.LICENSE.txt": "/HousieGame/static/js/2.ef0d9eea.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/HousieGame/static/media/MaterialIcons-Regular.e79bfd88.eot",
     "static/media/main.css": "/HousieGame/static/media/phone_bg.a1784dd2.png",
     "static/media/play_button.png": "/HousieGame/static/media/play_button.9f3de440.png",
     "static/media/shuffle_button.png": "/HousieGame/static/media/shuffle_button.79e0e6dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0f9f9b65.js",
-    "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.aeb48439.chunk.js",
-    "static/css/main.7308c118.chunk.css",
-    "static/js/main.16c42123.chunk.js"
+    "static/css/2.f8150b8a.chunk.css",
+    "static/js/2.ef0d9eea.chunk.js",
+    "static/css/main.fb8b47d7.chunk.css",
+    "static/js/main.f47ac56a.chunk.js"
   ]
 }
